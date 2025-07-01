@@ -12,8 +12,8 @@
 
 ## 📋 Explore Further  
 
-- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/FL-Studio-Community/FL-Studio-Music-Hub)  
-- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/FL-Studio-Community/FL-Studio-Music-Hub)  
+- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/Free-FL-Studio-2025/Free-FL-Studio-Music-Hub)  
+- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/Free-FL-Studio-2025/.github)  
 
 ---
 
